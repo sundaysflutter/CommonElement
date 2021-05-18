@@ -1,0 +1,16 @@
+PODS:
+  - CommonElement (0.1.0)
+
+DEPENDENCIES:
+  - CommonElement (from `../`)
+
+EXTERNAL SOURCES:
+  CommonElement:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CommonElement: 4037cd9eaebc7b6d61e5099d06caab6ae8144f51
+
+PODFILE CHECKSUM: ca858bd27826a64ecdd9a19400a1e478d872ba20
+
+COCOAPODS: 1.10.1
